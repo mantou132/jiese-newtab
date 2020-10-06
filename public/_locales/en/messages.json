@@ -1,0 +1,45 @@
+{
+  "extensionName": {
+    "message": "Stay Away From Porn"
+  },
+
+  "extensionDescription": {
+    "message": "New tab page to help stay away from pornography"
+  },
+
+  "harmTitle": {
+    "message": "The dangers of masturbation"
+  },
+
+  "harm1": {
+    "message": "Dark heart, unwilling to go out, prone to autism"
+  },
+
+  "harm2": {
+    "message": "Low self-esteem, afraid of social interaction, unwilling to communicate with others"
+  },
+
+  "harm3": {
+    "message": "Often troubled and depressed, prone to anxiety"
+  },
+
+  "harm4": {
+    "message": "Abnormal personality, easy to go to extremes when speaking and doing things"
+  },
+
+  "harm5": {
+    "message": "Do things halfway, can't persevere"
+  },
+
+  "harm6": {
+    "message": "Slow response, often doing wrong things, saying wrong things"
+  },
+
+  "harm7": {
+    "message": "Insomnia, nightmares, lethargy during the day"
+  },
+
+  "harm8": {
+    "message": "Poor temperament, lack of vigor, often troubled by small things"
+  }
+}

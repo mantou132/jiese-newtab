@@ -1,0 +1,45 @@
+{
+  "extensionName": {
+    "message": "戒色"
+  },
+
+  "extensionDescription": {
+    "message": "助于戒色的新标签页"
+  },
+
+  "harmTitle": {
+    "message": "手淫的危害"
+  },
+
+  "harm1": {
+    "message": "心里阴暗，不愿外出，容易患自闭症"
+  },
+
+  "harm2": {
+    "message": "内心自卑，害怕社交，不愿与人交流"
+  },
+
+  "harm3": {
+    "message": "常常烦恼压抑，容易患焦虑症"
+  },
+
+  "harm4": {
+    "message": "性格异常，说话办事容易走极端"
+  },
+
+  "harm5": {
+    "message": "做事半途而废，不能持之以恒"
+  },
+
+  "harm6": {
+    "message": "反应迟钝，经常做错事，说错话"
+  },
+
+  "harm7": {
+    "message": "失眠做噩梦，白天精神萎靡"
+  },
+
+  "harm8": {
+    "message": "气质猥琐，没有朝气，常为小事烦恼"
+  }
+}
